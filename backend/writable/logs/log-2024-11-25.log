@@ -1,0 +1,857 @@
+CRITICAL - 2024-11-25 06:48:14 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smartcms/Auth::login"
+[Method: GET, Route: login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smartcms/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 06:48:16 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smartcms/Auth::login"
+[Method: GET, Route: login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smartcms/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 06:49:37 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smartcms/Auth::login"
+[Method: GET, Route: login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smartcms/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 06:50:34 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smartcms/Auth::login"
+[Method: GET, Route: login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smartcms/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 06:50:36 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smartcms/Auth::login"
+[Method: GET, Route: login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smartcms/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 06:50:56 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smartcms/Auth::login"
+[Method: GET, Route: login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smartcms/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:00:05 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smartcms/Auth::login"
+[Method: GET, Route: smartcms/login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smartcms/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('smartcms/login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('smartcms/login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:01:30 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smartcms/Auth::login"
+[Method: GET, Route: smartcms/login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smartcms/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('smartcms/login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('smartcms/login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:02:11 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smart/Auth::login"
+[Method: GET, Route: smart/login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smart/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('smart/login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('smart/login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:03:02 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smart/Auth::login"
+[Method: GET, Route: smart/login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smart/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('smart/login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('smart/login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:03:53 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smart/Auth::login"
+[Method: GET, Route: smart/login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smart/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('smart/login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('smart/login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:03:54 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smart/Auth::login"
+[Method: GET, Route: smart/login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smart/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('smart/login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('smart/login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:03:55 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smart/Auth::login"
+[Method: GET, Route: smart/login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smart/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('smart/login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('smart/login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:03:56 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smart/Auth::login"
+[Method: GET, Route: smart/login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smart/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('smart/login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('smart/login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:03:56 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smart/Auth::login"
+[Method: GET, Route: smart/login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smart/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('smart/login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('smart/login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:04:06 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smart/Auth::login"
+[Method: GET, Route: smart/login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smart/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('smart/login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('smart/login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:04:09 --> CodeIgniter\Router\Exceptions\RouterException: The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\smart/Auth::login"
+[Method: GET, Route: smart/login]
+in SYSTEMPATH/Router/Router.php on line 492.
+ 1 SYSTEMPATH/Router/Router.php(492): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\smart/Auth::login')
+ 2 SYSTEMPATH/Router/Router.php(210): CodeIgniter\Router\Router->checkRoutes('smart/login')
+ 3 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('smart/login')
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:16:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart/auth/masuk.php"
+[Method: GET, Route: smart/login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart/auth/masuk.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart/auth/masuk', [], true)
+ 3 APPPATH/Controllers/smart/LoginController.php(17): view('smart/auth/masuk')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:23:50 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:24:04 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:26:07 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:27:13 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:28:32 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:31:51 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:37:23 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:38:13 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:38:42 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:42:41 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:43:36 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:45:05 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 35.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:45:41 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 30.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:48:22 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 44.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:55:33 --> ArgumentCountError: Too few arguments to function CodeIgniter\Shield\Authentication\Authenticators\Session::check(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/event/backend/vendor/codeigniter4/shield/src/Auth.php on line 191 and exactly 1 expected
+[Method: GET, Route: smart/login]
+in VENDORPATH/codeigniter4/shield/src/Authentication/Authenticators/Session.php on line 318.
+ 1 VENDORPATH/codeigniter4/shield/src/Auth.php(191): CodeIgniter\Shield\Authentication\Authenticators\Session->check()
+ 2 APPPATH/Controllers/smart/LoginController.php(12): CodeIgniter\Shield\Auth->__call('check', [])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:55:34 --> ArgumentCountError: Too few arguments to function CodeIgniter\Shield\Authentication\Authenticators\Session::check(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/event/backend/vendor/codeigniter4/shield/src/Auth.php on line 191 and exactly 1 expected
+[Method: GET, Route: smart/login]
+in VENDORPATH/codeigniter4/shield/src/Authentication/Authenticators/Session.php on line 318.
+ 1 VENDORPATH/codeigniter4/shield/src/Auth.php(191): CodeIgniter\Shield\Authentication\Authenticators\Session->check()
+ 2 APPPATH/Controllers/smart/LoginController.php(12): CodeIgniter\Shield\Auth->__call('check', [])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:56:02 --> ArgumentCountError: Too few arguments to function CodeIgniter\Shield\Authentication\Authenticators\Session::check(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/event/backend/vendor/codeigniter4/shield/src/Auth.php on line 191 and exactly 1 expected
+[Method: GET, Route: smart/login]
+in VENDORPATH/codeigniter4/shield/src/Authentication/Authenticators/Session.php on line 318.
+ 1 VENDORPATH/codeigniter4/shield/src/Auth.php(191): CodeIgniter\Shield\Authentication\Authenticators\Session->check()
+ 2 APPPATH/Controllers/smart/LoginController.php(12): CodeIgniter\Shield\Auth->__call('check', [])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:56:15 --> ArgumentCountError: Too few arguments to function CodeIgniter\Shield\Authentication\Authenticators\Session::check(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/event/backend/vendor/codeigniter4/shield/src/Auth.php on line 191 and exactly 1 expected
+[Method: GET, Route: smart/login]
+in VENDORPATH/codeigniter4/shield/src/Authentication/Authenticators/Session.php on line 318.
+ 1 VENDORPATH/codeigniter4/shield/src/Auth.php(191): CodeIgniter\Shield\Authentication\Authenticators\Session->check()
+ 2 APPPATH/Controllers/smart/LoginController.php(12): CodeIgniter\Shield\Auth->__call('check', [])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:57:06 --> ArgumentCountError: Too few arguments to function CodeIgniter\Shield\Authentication\Authenticators\Session::check(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/event/backend/vendor/codeigniter4/shield/src/Auth.php on line 191 and exactly 1 expected
+[Method: GET, Route: smart/login]
+in VENDORPATH/codeigniter4/shield/src/Authentication/Authenticators/Session.php on line 318.
+ 1 VENDORPATH/codeigniter4/shield/src/Auth.php(191): CodeIgniter\Shield\Authentication\Authenticators\Session->check()
+ 2 APPPATH/Controllers/smart/LoginController.php(12): CodeIgniter\Shield\Auth->__call('check', [])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->index()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:58:26 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 31.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 07:59:19 --> Error: Call to a member function attempt() on null
+[Method: POST, Route: smart/authenticate]
+in APPPATH/Controllers/smart/LoginController.php on line 31.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->authenticate()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:04:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart/masuk.php"
+[Method: GET, Route: smart/login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart/masuk.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart/masuk', [], true)
+ 3 APPPATH/Controllers/smart/LoginController.php(13): view('smart/masuk')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\LoginController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\LoginController))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:14:04 --> CodeIgniter\Filters\Exceptions\FilterException: "login" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 495.
+ 1 SYSTEMPATH/Filters/Filters.php(495): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('login')
+ 2 SYSTEMPATH/Filters/Filters.php(547): CodeIgniter\Filters\Filters->enableFilter('login', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:16:06 --> CodeIgniter\Filters\Exceptions\FilterException: "login" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 495.
+ 1 SYSTEMPATH/Filters/Filters.php(495): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('login')
+ 2 SYSTEMPATH/Filters/Filters.php(547): CodeIgniter\Filters\Filters->enableFilter('login', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:16:26 --> CodeIgniter\Filters\Exceptions\FilterException: "login" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 495.
+ 1 SYSTEMPATH/Filters/Filters.php(495): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('login')
+ 2 SYSTEMPATH/Filters/Filters.php(547): CodeIgniter\Filters\Filters->enableFilter('login', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:19:45 --> CodeIgniter\Filters\Exceptions\FilterException: "login" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 495.
+ 1 SYSTEMPATH/Filters/Filters.php(495): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('login')
+ 2 SYSTEMPATH/Filters/Filters.php(547): CodeIgniter\Filters\Filters->enableFilter('login', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:28:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart\auth\login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart\\auth\\login.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart\\auth\\login', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('smart\\auth\\login', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('smart\\auth\\login')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:31:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart\auth\login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart\\auth\\login.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart\\auth\\login', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('smart\\auth\\login', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('smart\\auth\\login')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:31:56 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart\auth\login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart\\auth\\login.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart\\auth\\login', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('smart\\auth\\login', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('smart\\auth\\login')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:32:21 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart\auth\login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart\\auth\\login.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart\\auth\\login', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('smart\\auth\\login', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('smart\\auth\\login')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:33:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Views\smart\auth\login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Views\\smart\\auth\\login.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('Views\\smart\\auth\\login', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('Views\\smart\\auth\\login', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('Views\\smart\\auth\\login')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:33:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart\auth\login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart\\auth\\login.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart\\auth\\login', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('smart\\auth\\login', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('smart\\auth\\login')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:34:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart\auth\login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart\\auth\\login.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart\\auth\\login', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('smart\\auth\\login', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('smart\\auth\\login')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:34:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart\auth\login.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart\\auth\\login.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart\\auth\\login', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('smart\\auth\\login', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('smart\\auth\\login')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:35:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "tes\welcome_message.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tes\\welcome_message.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('tes\\welcome_message', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('tes\\welcome_message', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('tes\\welcome_message')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:35:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "tes\welcome_message.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tes\\welcome_message.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('tes\\welcome_message', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('tes\\welcome_message', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('tes\\welcome_message')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:35:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "tes\welcome_message.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tes\\welcome_message.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('tes\\welcome_message', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('tes\\welcome_message', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('tes\\welcome_message')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:35:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "tes\welcome_message.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tes\\welcome_message.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('tes\\welcome_message', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('tes\\welcome_message', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('tes\\welcome_message')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:35:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "tes\welcome_message.php"
+[Method: GET, Route: login]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tes\\welcome_message.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('tes\\welcome_message', [], true)
+ 3 VENDORPATH/codeigniter4/shield/src/Traits/Viewable.php(25): view('tes\\welcome_message', [], [])
+ 4 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(45): CodeIgniter\Shield\Controllers\LoginController->view('tes\\welcome_message')
+ 5 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:42:47 --> TypeError: Config\Auth::loginRedirect(): Return value must be of type string, CodeIgniter\HTTP\RedirectResponse returned
+[Method: GET, Route: login]
+in APPPATH/Config/Auth.php on line 443.
+ 1 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(34): Config\Auth->loginRedirect()
+ 2 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:42:48 --> TypeError: Config\Auth::loginRedirect(): Return value must be of type string, CodeIgniter\HTTP\RedirectResponse returned
+[Method: GET, Route: login]
+in APPPATH/Config/Auth.php on line 443.
+ 1 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(34): Config\Auth->loginRedirect()
+ 2 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 08:43:07 --> TypeError: Config\Auth::loginRedirect(): Return value must be of type string, CodeIgniter\HTTP\RedirectResponse returned
+[Method: GET, Route: login]
+in APPPATH/Config/Auth.php on line 443.
+ 1 VENDORPATH/codeigniter4/shield/src/Controllers/LoginController.php(34): Config\Auth->loginRedirect()
+ 2 SYSTEMPATH/CodeIgniter.php(933): CodeIgniter\Shield\Controllers\LoginController->loginView()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\Shield\Controllers\LoginController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:09:51 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 495.
+ 1 SYSTEMPATH/Filters/Filters.php(495): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/Filters/Filters.php(547): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:13:10 --> Error: Class "CodeIgniter\Shield\Filters\AuthFilter" not found
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 197.
+ 1 SYSTEMPATH/Filters/Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 2 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('smart/dashboard', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:13:24 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 495.
+ 1 SYSTEMPATH/Filters/Filters.php(495): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/Filters/Filters.php(547): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:15:16 --> CodeIgniter\Filters\Exceptions\FilterException: "CodeIgniter\Shield\Filters\AuthFilter" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 495.
+ 1 SYSTEMPATH/Filters/Filters.php(495): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CodeIgniter\\Shield\\Filters\\AuthFilter')
+ 2 SYSTEMPATH/Filters/Filters.php(547): CodeIgniter\Filters\Filters->enableFilter('CodeIgniter\\Shield\\Filters\\AuthFilter', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:16:11 --> CodeIgniter\Filters\Exceptions\FilterException: "CodeIgniter\Shield\Filters\AuthFilter" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 495.
+ 1 SYSTEMPATH/Filters/Filters.php(495): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('CodeIgniter\\Shield\\Filters\\AuthFilter')
+ 2 SYSTEMPATH/Filters/Filters.php(547): CodeIgniter\Filters\Filters->enableFilter('CodeIgniter\\Shield\\Filters\\AuthFilter', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:20:02 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart/dashboard/index.php"
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart/dashboard/index.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart/dashboard/index', [], true)
+ 3 APPPATH/Controllers/smart/DashboardController.php(12): view('smart/dashboard/index', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\DashboardController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\DashboardController))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:20:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart/dashboard/index.php"
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart/dashboard/index.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart/dashboard/index', [], true)
+ 3 APPPATH/Controllers/smart/DashboardController.php(12): view('smart/dashboard/index', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\DashboardController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\DashboardController))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:20:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "smart/dashboard/index.php"
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smart/dashboard/index.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('smart/dashboard/index', [], true)
+ 3 APPPATH/Controllers/smart/DashboardController.php(12): view('smart/dashboard/index', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\smart\DashboardController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\smart\DashboardController))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:23:16 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 495.
+ 1 SYSTEMPATH/Filters/Filters.php(495): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/Filters/Filters.php(547): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:26:05 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 495.
+ 1 SYSTEMPATH/Filters/Filters.php(495): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/Filters/Filters.php(547): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
+ 3 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:29:31 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 778.
+ 1 SYSTEMPATH/Filters/Filters.php(778): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/Filters/Filters.php(406): CodeIgniter\Filters\Filters->processAliasesToClass('before')
+ 3 SYSTEMPATH/Filters/Filters.php(181): CodeIgniter\Filters\Filters->initialize('smart/dashboard')
+ 4 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('smart/dashboard', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:29:57 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 778.
+ 1 SYSTEMPATH/Filters/Filters.php(778): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/Filters/Filters.php(406): CodeIgniter\Filters\Filters->processAliasesToClass('before')
+ 3 SYSTEMPATH/Filters/Filters.php(181): CodeIgniter\Filters\Filters->initialize('smart/dashboard')
+ 4 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('smart/dashboard', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:30:21 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 778.
+ 1 SYSTEMPATH/Filters/Filters.php(778): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/Filters/Filters.php(406): CodeIgniter\Filters\Filters->processAliasesToClass('before')
+ 3 SYSTEMPATH/Filters/Filters.php(181): CodeIgniter\Filters\Filters->initialize('smart/dashboard')
+ 4 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('smart/dashboard', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:33:14 --> ArgumentCountError: Too few arguments to function CodeIgniter\Shield\Authentication\Authenticators\Session::check(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/event/backend/vendor/codeigniter4/shield/src/Auth.php on line 191 and exactly 1 expected
+[Method: GET, Route: smart/dashboard]
+in VENDORPATH/codeigniter4/shield/src/Authentication/Authenticators/Session.php on line 318.
+ 1 VENDORPATH/codeigniter4/shield/src/Auth.php(191): CodeIgniter\Shield\Authentication\Authenticators\Session->check()
+ 2 APPPATH/Filters/AuthFilter.php(15): CodeIgniter\Shield\Auth->__call('check', [])
+ 3 SYSTEMPATH/Filters/Filters.php(203): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/Filters/Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 5 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('smart/dashboard', 'before')
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:35:55 --> ArgumentCountError: Too few arguments to function CodeIgniter\Shield\Authentication\Authenticators\Session::check(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/event/backend/vendor/codeigniter4/shield/src/Auth.php on line 191 and exactly 1 expected
+[Method: GET, Route: smart/dashboard]
+in VENDORPATH/codeigniter4/shield/src/Authentication/Authenticators/Session.php on line 318.
+ 1 VENDORPATH/codeigniter4/shield/src/Auth.php(191): CodeIgniter\Shield\Authentication\Authenticators\Session->check()
+ 2 APPPATH/Filters/AuthFilter.php(15): CodeIgniter\Shield\Auth->__call('check', [])
+ 3 SYSTEMPATH/Filters/Filters.php(203): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/Filters/Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 5 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('smart/dashboard', 'before')
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:35:56 --> ArgumentCountError: Too few arguments to function CodeIgniter\Shield\Authentication\Authenticators\Session::check(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/event/backend/vendor/codeigniter4/shield/src/Auth.php on line 191 and exactly 1 expected
+[Method: GET, Route: smart/dashboard]
+in VENDORPATH/codeigniter4/shield/src/Authentication/Authenticators/Session.php on line 318.
+ 1 VENDORPATH/codeigniter4/shield/src/Auth.php(191): CodeIgniter\Shield\Authentication\Authenticators\Session->check()
+ 2 APPPATH/Filters/AuthFilter.php(15): CodeIgniter\Shield\Auth->__call('check', [])
+ 3 SYSTEMPATH/Filters/Filters.php(203): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/Filters/Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 5 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('smart/dashboard', 'before')
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:35:56 --> ArgumentCountError: Too few arguments to function CodeIgniter\Shield\Authentication\Authenticators\Session::check(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/event/backend/vendor/codeigniter4/shield/src/Auth.php on line 191 and exactly 1 expected
+[Method: GET, Route: smart/dashboard]
+in VENDORPATH/codeigniter4/shield/src/Authentication/Authenticators/Session.php on line 318.
+ 1 VENDORPATH/codeigniter4/shield/src/Auth.php(191): CodeIgniter\Shield\Authentication\Authenticators\Session->check()
+ 2 APPPATH/Filters/AuthFilter.php(15): CodeIgniter\Shield\Auth->__call('check', [])
+ 3 SYSTEMPATH/Filters/Filters.php(203): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH/Filters/Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 5 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('smart/dashboard', 'before')
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:37:05 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 778.
+ 1 SYSTEMPATH/Filters/Filters.php(778): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/Filters/Filters.php(406): CodeIgniter\Filters\Filters->processAliasesToClass('before')
+ 3 SYSTEMPATH/Filters/Filters.php(181): CodeIgniter\Filters\Filters->initialize('smart/dashboard')
+ 4 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('smart/dashboard', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-25 09:37:06 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
+[Method: GET, Route: smart/dashboard]
+in SYSTEMPATH/Filters/Filters.php on line 778.
+ 1 SYSTEMPATH/Filters/Filters.php(778): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH/Filters/Filters.php(406): CodeIgniter\Filters\Filters->processAliasesToClass('before')
+ 3 SYSTEMPATH/Filters/Filters.php(181): CodeIgniter\Filters\Filters->initialize('smart/dashboard')
+ 4 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('smart/dashboard', 'before')
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
